@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: InLibro
     url: https://inlibro.pl
+  - name: GigaKarma
+    url: https://gigakarma.pl
+  - name: GigaKarma Blog
+    url: https://gigakarma.pl/blog
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
