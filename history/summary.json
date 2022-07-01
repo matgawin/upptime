@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "alksjd",
     "status": "up",
-    "uptime": "4.11%",
-    "uptimeDay": "4.11%",
-    "uptimeWeek": "4.11%",
-    "uptimeMonth": "4.11%",
-    "uptimeYear": "4.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 146,
     "timeDay": 146,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2022-07-01": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
